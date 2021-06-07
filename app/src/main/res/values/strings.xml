@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Nanem</string>
+    <string name="nama_tanah">Nama Tanah</string>
+    <string name="detail">Detail Tanah</string>
+    <string name="desc">Description1</string>
+    <string name="name">nanem is an educational application that is expected to help solve people problems related to soil.</string>
+    <string name="About_name">Name</string>
+    <string name="email_gmail">nanem@gmail.com</string>
+    <string name="bijak">- Impossible is Nothing -</string>
+    <string name="jenis">Jenis Tanah</string>
+    <string name="about">About Us</string>
+    <string name="Main">Home</string>
+    <string name="dog_name">nama tanah</string>
+
+    <string name="one_time_alarm">Nyiram Reminder</string>
+    <string name="alarm_date">Time </string>
+    <string name="set_one_time_alarm">Save Reminder</string>
+    <string name="alarm_message">Message</string>
+    <string name="repeating_alarm">Repeating Alarm</string>
+    <string name="set_repeating_alarm">Set Repeating Alarm</string>
+    <string name="cancel_alarm">Cancel Reminder</string>
+    <string name="alarm_time">Date</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
